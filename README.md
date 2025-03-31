@@ -16,7 +16,7 @@ You can view the live version of the dashboard here:
 - **Average Ratings by Product Line**: A bar chart displaying average ratings per product line.
 - **Cost of Goods by Gender and Customer Type**: Bar charts that compare the total Cost of Goods Sold by gender and customer type.
 - **Sales by Branch**: Bar charts for quantities sold and total Cost of Goods Sold by branch.
-- **Monthly Trends**: Bar chart for total Cost of Goods Sold per month and average COGS per hour.
+- **Monthly Trends**: Bar chart for total Cost of Goods Sold per month and average Cost of Goods Sold per hour.
 - **Payment Methods**: A table summarizing payment method data.
 - **Customer Distribution by City and Gender**: A stacked bar chart showing the count of customers by city and gender.
 
