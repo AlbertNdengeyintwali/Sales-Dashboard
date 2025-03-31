@@ -14,7 +14,7 @@ You can view the live version of the dashboard here:
 - **Gender Distribution**: A pie chart showing the gender distribution of customers.
 - **Cost of Goods Sold by City**: A bar chart representing total Cost of Goods Sold by city.
 - **Average Ratings by Product Line**: A bar chart displaying average ratings per product line.
-- **Cost of Goods by Gender and Customer Type**: Bar charts that compare the total COGS by gender and customer type.
+- **Cost of Goods by Gender and Customer Type**: Bar charts that compare the total Cost of Goods Sold by gender and customer type.
 - **Sales by Branch**: Bar charts for quantities sold and total Cost of Goods Sold by branch.
 - **Monthly Trends**: Bar chart for total Cost of Goods Sold per month and average COGS per hour.
 - **Payment Methods**: A table summarizing payment method data.
