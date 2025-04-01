@@ -6,7 +6,7 @@ This project is an interactive Shiny dashboard for analyzing supermarket sales d
 
 You can view the live version of the dashboard here:
 
-[Supermarket Sales Dashboard](https://kjbwz9-ndengeyintwali-albert.shinyapps.io/r_shin/))
+[Supermarket Sales Dashboard](https://kjbwz9-ndengeyintwali-albert.shinyapps.io/r_shin/)
 
 ## Features
 
